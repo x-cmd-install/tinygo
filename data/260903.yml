@@ -1,17 +1,19 @@
 about:
-  description: Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+  description:
+  |
+    Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
   license: NOASSERTION
   homepage: https://tinygo.org
   head: 497438d
   archived: false
   latestVersion: v0.42.0
-  collectedAt: 2026-09-03T05:29:11Z
+  collectedAt: 2026-09-03T22:34:14Z
 timeline:
   created: 2018-06-07
   lastCommit: 2026-09-02
   lastRelease: 2026-09-01
 popularity:
-  star: 17690
+  star: 17691
   watcher: 189
   fork: 1076
   release: 52
@@ -31,7 +33,7 @@ language:
   Nix: 2880
   Dockerfile: 1166
   Shell: 968
-totalLine: 5710153
+totalBytes: 5710153
 recent:
   last30d:
     since: 2026-08-04

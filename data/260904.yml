@@ -7,7 +7,7 @@ about:
   head: 21718dc
   archived: false
   latestVersion: v0.42.0
-  collectedAt: 2026-09-04T20:08:05Z
+  collectedAt: 2026-09-04T20:40:45Z
 timeline:
   created: 2018-06-07
   lastCommit: 2026-09-04
@@ -92,7 +92,7 @@ total:
   commit: 4842
 ---
 path: /home/runner/.x-repo/github.com/tinygo-org/tinygo
-collectedAt: 2026-09-04T20:08:06Z
+collectedAt: 2026-09-04T20:40:47Z
 loc:
   Go:
     code: 132150

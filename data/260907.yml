@@ -2,95 +2,95 @@ about:
   description: "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
   license: NOASSERTION
   homepage: https://tinygo.org
-  head: 21718dc
+  head: 3725265
   archived: false
   latestVersion: "v0.42.0"
-  collectedAt: 2026-09-07T05:56:27Z
+  collectedAt: 2026-09-07T18:30:57Z
 timeline:
   created: 2018-06-07
-  lastCommit: 2026-09-04
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-01
 popularity:
-  star: 17702
-  watcher: 189
+  star: 17705
+  watcher: 190
   fork: 1074
   release: 52
   contributor: 246
   pullRequest: 3729
-  issue: 1841
+  issue: 1842
 language:
-  Go: 5176216
+  Go: 5176223
   Linker Script: 209869
   Assembly: 156276
   Makefile: 79468
   C++: 29869
   JavaScript: 21158
-  C: 20165
+  C: 20172
   HTML: 7911
   Python: 3307
   Nix: 2880
   Dockerfile: 1166
   Shell: 968
-totalBytes: 5709253
+totalBytes: 5709267
 recent:
   last30d:
     since: 2026-08-08
     release: 1
-    mergedPR: 25
-    openPR: 20
-    closedIssue: 4
+    mergedPR: 26
+    openPR: 19
+    closedIssue: 5
     openIssue: 17
-    commit: 27
+    commit: 28
   last60d:
     since: 2026-07-09
     release: 1
-    mergedPR: 64
-    openPR: 29
-    closedIssue: 10
+    mergedPR: 65
+    openPR: 28
+    closedIssue: 11
     openIssue: 27
-    commit: 76
+    commit: 77
   last90d:
     since: 2026-06-09
     release: 1
-    mergedPR: 99
-    openPR: 37
-    closedIssue: 13
+    mergedPR: 100
+    openPR: 36
+    closedIssue: 14
     openIssue: 32
-    commit: 141
+    commit: 142
   last180d:
     since: 2026-03-11
     release: 3
-    mergedPR: 225
-    openPR: 52
-    closedIssue: 38
+    mergedPR: 226
+    openPR: 51
+    closedIssue: 39
     openIssue: 49
-    commit: 328
+    commit: 329
   last360d:
     since: 2025-09-12
     release: 5
-    mergedPR: 338
-    openPR: 64
-    closedIssue: 68
+    mergedPR: 339
+    openPR: 63
+    closedIssue: 69
     openIssue: 68
-    commit: 467
+    commit: 468
   last720d:
     since: 2024-09-17
     release: 11
-    mergedPR: 616
-    openPR: 87
-    closedIssue: 185
+    mergedPR: 617
+    openPR: 86
+    closedIssue: 186
     openIssue: 141
-    commit: 880
+    commit: 881
 total:
   release: 52
-  mergedPR: 2972
-  openPR: 144
-  closedIssue: 1416
+  mergedPR: 2973
+  openPR: 143
+  closedIssue: 1417
   openIssue: 425
-  commit: 4842
+  commit: 4843
 ---
 path: /home/runner/.x-repo/github.com/tinygo-org/tinygo
-collectedAt: 2026-09-07T05:56:30Z
+collectedAt: 2026-09-07T18:31:01Z
 loc:
   Go:
     code: 132150
@@ -400,7 +400,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:56:31+00:00
+  collectedAt: 2026-09-07T18:31:03+00:00
   platform:
     darwin/arm64:
       name:  tinygo0.42.0.darwin-arm64.tar.gz

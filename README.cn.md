@@ -1,62 +1,62 @@
 # tinygo
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 
-![tinygo](https://repo.x-cmd.io/tinygo.svg)
+![tinygo](https://repo.x-cmd.io/tinygo.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install tinygo
 ```
 
-## Code insight
+## 代码规模
 
-Total: **148,230** lines of code across **1879** files in the top 5 languages.
+合计: **148,230** 行代码（覆盖前 5 种语言、共 **1879** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Go | 132,723 | 39,628 | 23,304 | 1366 |
 | LLVM | 4,372 | 387 | 934 | 60 |
 | Json | 3,795 | 0 | 5 | 367 |
 | AssemblyGAS | 3,133 | 1,257 | 605 | 78 |
 | Makefile | 1,245 | 179 | 122 | 8 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **5.7 / 10**
+总评分: **5.7 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Security-Policy** (0/10) — security policy file not detected
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/tinygo-org/tinygo>
-- **Homepage**: <https://tinygo.org>
-- **License**: NOASSERTION
+- **上游仓库**: <https://github.com/tinygo-org/tinygo>
+- **官网**: <https://tinygo.org>
+- **许可证**: NOASSERTION
 
-## Release
+## 发布
 
-- **Latest**: `v0.42.0` (2026-09-01)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 9
+- **最新版本**: `v0.42.0` (2026-09-01)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 9 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 17,715 · **Forks**: 1,074 · **Open issues**: 1,844 · **Contributors**: 246
+- **Star**: 17,715 · **Fork**: 1,074 · **开放 issue**: 1,844 · **贡献者**: 246
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 52 · **Merged PRs**: 2978 · **Open PRs**: 127 · **Closed issues**: 1418 · **Open issues**: 426 · **Commits**: 4858
+- **发布数**: 52 · **已合并 PR**: 2978 · **开放 PR**: 127 · **已关闭 issue**: 1418 · **开放 issue**: 426 · **提交数**: 4858
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 28 | 20 | 4 | 19 | 35 |
 | last60d | 2026-07-12 | 1 | 63 | 28 | 10 | 28 | 92 |
@@ -65,10 +65,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 5 | 344 | 60 | 69 | 69 | 483 |
 | last720d | 2024-09-20 | 11 | 620 | 83 | 185 | 142 | 890 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [tinygo0.42.0.darwin-amd64.tar.gz](https://github.com/tinygo-org/tinygo/releases/download/v0.42.0/tinygo0.42.0.darwin-amd64.tar.gz) | 157.9 MiB | `native/darwin/x64` |
 | [tinygo0.42.0.darwin-arm64.tar.gz](https://github.com/tinygo-org/tinygo/releases/download/v0.42.0/tinygo0.42.0.darwin-arm64.tar.gz) | 155.5 MiB | `native/darwin/arm64` |
 | [tinygo0.42.0.linux-amd64.tar.gz](https://github.com/tinygo-org/tinygo/releases/download/v0.42.0/tinygo0.42.0.linux-amd64.tar.gz) | 176.4 MiB | `native/linux/x64` |
@@ -79,24 +79,24 @@ Lowest-scoring checks:
 | [tinygo_0.42.0_arm64.deb](https://github.com/tinygo-org/tinygo/releases/download/v0.42.0/tinygo_0.42.0_arm64.deb) | 169.5 MiB | `runtime/deb/arm64` |
 | [tinygo_0.42.0_armhf.deb](https://github.com/tinygo-org/tinygo/releases/download/v0.42.0/tinygo_0.42.0_armhf.deb) | 166.8 MiB | `runtime/deb/armhf` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **26** distros on [repology.org](https://repology.org/project/tinygo). **3** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/tinygo) 上共有 **26** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**21** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Arch | `0.41.1` | ⚠️ outdated |
 | Fedora rawhide | `0.39.0` | ⚠️ outdated |
 | Nix unstable | `0.41.1` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.41.1` | ⚠️ outdated |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for tinygo lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tinygo` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+tinygo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `tinygo` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tinygo.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/tinygo.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:09:34Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:09:35Z._

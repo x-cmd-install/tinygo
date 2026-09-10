@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.42.0"
   latestRelease: "v0.42.0"
   latestPrerelease: "v0.25.0-beta1"
-  collectedAt: 2026-09-10T21:08:24Z
+  collectedAt: 2026-09-10T22:55:27Z
 timeline:
   created: 2018-06-07
   lastCommit: 2026-09-10
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 17715
   watcher: 190
-  fork: 1074
+  fork: 1073
   release: 52
   contributor: 246
   pullRequest: 3736
@@ -94,7 +94,7 @@ total:
   commit: 4858
 ---
 path: /home/runner/.x-repo/github.com/tinygo-org/tinygo
-collectedAt: 2026-09-10T21:08:35Z
+collectedAt: 2026-09-10T22:55:31Z
 loc:
   Go:
     code: 132723

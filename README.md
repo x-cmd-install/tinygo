@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,715 · **Forks**: 1,074 · **Open issues**: 1,844 · **Contributors**: 246
+- **Stars**: 17,715 · **Forks**: 1,073 · **Open issues**: 1,844 · **Contributors**: 246
 
 ## Totals (cumulative)
 
@@ -99,4 +99,4 @@ Install metadata for tinygo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:09:34Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:56:11Z._

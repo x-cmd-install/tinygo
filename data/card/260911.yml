@@ -2,31 +2,31 @@ about:
   description: "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
   license: NOASSERTION
   homepage: https://tinygo.org
-  head: d88abc2
+  head: 206d9ae
   archived: false
   latestVersion: "v0.42.0"
   latestRelease: "v0.42.0"
   latestPrerelease: "v0.25.0-beta1"
-  collectedAt: 2026-09-11T06:08:06Z
+  collectedAt: 2026-09-11T18:42:43Z
 timeline:
   created: 2018-06-07
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-09-01
   lastRelease: 2026-09-01
   lastPrerelease: 2022-07-29
 popularity:
-  star: 17719
+  star: 17720
   watcher: 190
-  fork: 1073
+  fork: 1074
   release: 52
-  contributor: 246
-  pullRequest: 3737
+  contributor: 247
+  pullRequest: 3739
   issue: 1844
 language:
-  Go: 5186394
+  Go: 5190929
   Linker Script: 209869
   Assembly: 157086
-  Makefile: 81062
+  Makefile: 81184
   C++: 29869
   JavaScript: 21158
   C: 20490
@@ -35,89 +35,89 @@ language:
   Nix: 2880
   Dockerfile: 1166
   Shell: 968
-totalBytes: 5722160
+totalBytes: 5726817
 recent:
   last30d:
     since: 2026-08-12
     release: 1
-    mergedPR: 28
-    openPR: 21
+    mergedPR: 29
+    openPR: 22
     closedIssue: 4
     openIssue: 17
-    commit: 35
+    commit: 36
   last60d:
     since: 2026-07-13
     release: 1
-    mergedPR: 61
-    openPR: 29
+    mergedPR: 62
+    openPR: 30
     closedIssue: 10
     openIssue: 28
-    commit: 92
+    commit: 94
   last90d:
     since: 2026-06-13
     release: 1
-    mergedPR: 100
+    mergedPR: 102
     openPR: 37
     closedIssue: 14
     openIssue: 33
-    commit: 157
+    commit: 159
   last180d:
     since: 2026-03-15
     release: 3
-    mergedPR: 230
+    mergedPR: 232
     openPR: 50
     closedIssue: 39
     openIssue: 50
-    commit: 344
+    commit: 346
   last360d:
     since: 2025-09-16
     release: 5
-    mergedPR: 343
+    mergedPR: 345
     openPR: 61
     closedIssue: 69
     openIssue: 69
-    commit: 483
+    commit: 485
   last720d:
     since: 2024-09-21
     release: 11
-    mergedPR: 620
+    mergedPR: 622
     openPR: 84
     closedIssue: 185
     openIssue: 142
-    commit: 890
+    commit: 892
 total:
   release: 52
-  mergedPR: 2978
+  mergedPR: 2980
   openPR: 128
   closedIssue: 1418
   openIssue: 426
-  commit: 4858
+  commit: 4860
 ---
 path: /home/runner/.x-repo/github.com/tinygo-org/tinygo
-collectedAt: 2026-09-11T06:08:09Z
+collectedAt: 2026-09-11T18:42:46Z
 loc:
   Go:
-    code: 132723
-    comments: 39628
-    blanks: 23304
-    files: 1366
+    code: 132874
+    comments: 39643
+    blanks: 23326
+    files: 1367
   LLVM:
     code: 4372
     comments: 387
     blanks: 934
     files: 60
   Json:
-    code: 3795
+    code: 3803
     comments: 0
     blanks: 5
-    files: 367
+    files: 368
   AssemblyGAS:
     code: 3133
     comments: 1257
     blanks: 605
     files: 78
   Makefile:
-    code: 1245
+    code: 1247
     comments: 179
     blanks: 122
     files: 8
@@ -198,14 +198,14 @@ loc:
     files: 14
   Text:
     code: 0
-    comments: 1751
+    comments: 1752
     blanks: 24
     files: 58
 total:
-  code: 148316
-  comments: 47233
-  blanks: 25905
-  files: 2000
+  code: 148477
+  comments: 47249
+  blanks: 25927
+  files: 2002
 ---
 date: "2026-09-07"
 repo:

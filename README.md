@@ -14,24 +14,24 @@ x install tinygo
 
 ## Code insight
 
-Total: **148,592** lines of code across **1885** files in the top 5 languages.
+Total: **148,602** lines of code across **1885** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 133,039 | 39,674 | 23,351 | 1369 |
+| Go | 133,047 | 39,676 | 23,351 | 1369 |
 | LLVM | 4,372 | 387 | 934 | 60 |
 | Json | 3,827 | 0 | 5 | 370 |
 | AssemblyGAS | 3,137 | 1,260 | 605 | 78 |
-| Makefile | 1,263 | 179 | 125 | 8 |
+| Makefile | 1,265 | 179 | 125 | 8 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.7 / 10**
+Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.42.0` (2026-09-01)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-15
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 17,730 · **Forks**: 1,075 · **Open issues**: 1,847 · **Contributors**: 247
+- **Stars**: 17,730 · **Forks**: 1,075 · **Open issues**: 1,848 · **Contributors**: 247
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 2988 · **Open PRs**: 125 · **Closed issues**: 1419 · **Open issues**: 428 · **Commits**: 4868
+- **Releases**: 52 · **Merged PRs**: 2990 · **Open PRs**: 124 · **Closed issues**: 1420 · **Open issues**: 428 · **Commits**: 4870
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 29 | 20 | 4 | 19 | 36 |
-| last60d | 2026-07-17 | 1 | 65 | 28 | 9 | 28 | 86 |
-| 90d | 2026-06-17 | 1 | 107 | 35 | 14 | 34 | 163 |
-| last180d | 2026-03-19 | 3 | 237 | 49 | 39 | 51 | 341 |
-| 360d | 2025-09-20 | 5 | 347 | 60 | 70 | 71 | 485 |
-| last720d | 2024-09-25 | 11 | 630 | 82 | 184 | 144 | 898 |
+| 30d | 2026-08-17 | 1 | 31 | 18 | 5 | 18 | 38 |
+| last60d | 2026-07-18 | 1 | 66 | 27 | 10 | 28 | 88 |
+| 90d | 2026-06-18 | 1 | 109 | 34 | 14 | 34 | 165 |
+| last180d | 2026-03-20 | 3 | 239 | 48 | 40 | 51 | 343 |
+| 360d | 2025-09-21 | 5 | 349 | 59 | 71 | 71 | 487 |
+| last720d | 2024-09-26 | 11 | 632 | 81 | 184 | 144 | 900 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for tinygo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:33:15Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:28:23Z._

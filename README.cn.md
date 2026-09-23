@@ -4,7 +4,7 @@
 
 Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 
-[![x-cmd/install — tinygo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tinygo.svg?lang=zh)](https://x-cmd.com/install/tinygo)
+[![x-cmd/install — tinygo Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/tinygo.svg?lang=zh)](https://x-cmd.com/install/tinygo)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install tinygo
 
 ## 代码洞察
 
-合计: **152,497** 行代码（覆盖前 5 种语言、共 **1914** 个文件）。
+合计: **152,947** 行代码（覆盖前 5 种语言、共 **1919** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 136,493 | 39,982 | 23,787 | 1396 |
+| Go | 136,943 | 40,019 | 23,845 | 1401 |
 | LLVM | 4,626 | 397 | 1,011 | 62 |
 | Json | 3,825 | 0 | 5 | 370 |
 | AssemblyGAS | 3,206 | 1,277 | 614 | 78 |
@@ -48,22 +48,22 @@ x install tinygo
 
 ## 流行度
 
-- **Star**: 17,764 · **Fork**: 1,079 · **开放 issue**: 1,857 · **贡献者**: 248
+- **Star**: 17,768 · **Fork**: 1,079 · **开放 issue**: 1,857 · **贡献者**: 248
 
 ## 累计统计
 
-- **发布数**: 52 · **已合并 PR**: 3008 · **开放 PR**: 113 · **已关闭 issue**: 1432 · **开放 issue**: 425 · **提交数**: 4901
+- **发布数**: 52 · **已合并 PR**: 3014 · **开放 PR**: 113 · **已关闭 issue**: 1433 · **开放 issue**: 424 · **提交数**: 4909
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 45 | 19 | 10 | 19 | 47 |
-| last60d | 2026-07-24 | 1 | 72 | 25 | 15 | 28 | 94 |
-| 90d | 2026-06-24 | 1 | 123 | 34 | 22 | 35 | 191 |
-| last180d | 2026-03-26 | 3 | 253 | 44 | 48 | 51 | 367 |
-| 360d | 2025-09-27 | 5 | 365 | 54 | 80 | 70 | 515 |
-| last720d | 2024-10-02 | 11 | 649 | 73 | 189 | 141 | 930 |
+| 30d | 2026-08-24 | 1 | 48 | 22 | 10 | 19 | 55 |
+| last60d | 2026-07-25 | 1 | 76 | 28 | 15 | 27 | 102 |
+| 90d | 2026-06-25 | 1 | 125 | 37 | 22 | 35 | 199 |
+| last180d | 2026-03-27 | 3 | 259 | 44 | 49 | 50 | 375 |
+| 360d | 2025-09-28 | 5 | 371 | 56 | 81 | 69 | 523 |
+| last720d | 2024-10-03 | 11 | 652 | 75 | 190 | 140 | 933 |
 
 ## Release 资产
 
@@ -88,4 +88,4 @@ tinygo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:30:37Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:31:58Z._

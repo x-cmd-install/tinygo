@@ -14,11 +14,11 @@ x install tinygo
 
 ## Code insight
 
-Total: **160,374** lines of code across **1959** files in the top 5 languages.
+Total: **160,541** lines of code across **1960** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 142,849 | 40,712 | 24,611 | 1433 |
+| Go | 143,016 | 40,731 | 24,629 | 1434 |
 | LLVM | 5,987 | 472 | 1,247 | 68 |
 | Json | 3,869 | 0 | 5 | 372 |
 | AssemblyGAS | 3,206 | 1,278 | 614 | 78 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,802 · **Forks**: 1,079 · **Open issues**: 1,879 · **Contributors**: 249
+- **Stars**: 17,802 · **Forks**: 1,081 · **Open issues**: 1,881 · **Contributors**: 249
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 3067 · **Open PRs**: 111 · **Closed issues**: 1450 · **Open issues**: 429 · **Commits**: 4983
+- **Releases**: 52 · **Merged PRs**: 3069 · **Open PRs**: 114 · **Closed issues**: 1451 · **Open issues**: 430 · **Commits**: 4986
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 83 | 23 | 14 | 26 | 114 |
-| last60d | 2026-08-03 | 1 | 119 | 26 | 26 | 36 | 168 |
-| 90d | 2026-07-04 | 1 | 165 | 37 | 32 | 43 | 258 |
-| last180d | 2026-04-05 | 3 | 302 | 45 | 62 | 57 | 435 |
-| 360d | 2025-10-07 | 5 | 419 | 56 | 96 | 75 | 595 |
-| last720d | 2024-10-12 | 11 | 691 | 74 | 203 | 142 | 995 |
+| 30d | 2026-09-03 | 0 | 85 | 26 | 15 | 27 | 117 |
+| last60d | 2026-08-04 | 1 | 121 | 29 | 27 | 37 | 171 |
+| 90d | 2026-07-05 | 1 | 166 | 40 | 33 | 44 | 261 |
+| last180d | 2026-04-06 | 3 | 303 | 48 | 63 | 58 | 438 |
+| 360d | 2025-10-08 | 5 | 421 | 59 | 96 | 76 | 598 |
+| last720d | 2024-10-13 | 11 | 693 | 77 | 204 | 143 | 998 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for tinygo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:44:19Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:29:21Z._

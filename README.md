@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,802 · **Forks**: 1,081 · **Open issues**: 1,881 · **Contributors**: 249
+- **Stars**: 17,802 · **Forks**: 1,082 · **Open issues**: 1,881 · **Contributors**: 249
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 3069 · **Open PRs**: 114 · **Closed issues**: 1451 · **Open issues**: 430 · **Commits**: 4986
+- **Releases**: 52 · **Merged PRs**: 3069 · **Open PRs**: 115 · **Closed issues**: 1451 · **Open issues**: 430 · **Commits**: 4986
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 85 | 26 | 15 | 27 | 117 |
-| last60d | 2026-08-04 | 1 | 121 | 29 | 27 | 37 | 171 |
-| 90d | 2026-07-05 | 1 | 166 | 40 | 33 | 44 | 261 |
-| last180d | 2026-04-06 | 3 | 303 | 48 | 63 | 58 | 438 |
-| 360d | 2025-10-08 | 5 | 421 | 59 | 96 | 76 | 598 |
-| last720d | 2024-10-13 | 11 | 693 | 77 | 204 | 143 | 998 |
+| 30d | 2026-09-04 | 0 | 83 | 27 | 14 | 26 | 117 |
+| last60d | 2026-08-05 | 1 | 121 | 30 | 26 | 37 | 171 |
+| 90d | 2026-07-06 | 1 | 163 | 38 | 33 | 44 | 261 |
+| last180d | 2026-04-07 | 3 | 301 | 49 | 63 | 58 | 438 |
+| 360d | 2025-10-09 | 5 | 421 | 60 | 96 | 76 | 598 |
+| last720d | 2024-10-14 | 11 | 690 | 78 | 204 | 143 | 998 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for tinygo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:29:21Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:57:47Z._

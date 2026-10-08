@@ -26,7 +26,7 @@ Total: **160,541** lines of code across **1960** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.7 / 10**
+Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,803 · **Forks**: 1,086 · **Open issues**: 1,889 · **Contributors**: 249
+- **Stars**: 17,805 · **Forks**: 1,086 · **Open issues**: 1,890 · **Contributors**: 249
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 3069 · **Open PRs**: 119 · **Closed issues**: 1452 · **Open issues**: 437 · **Commits**: 4986
+- **Releases**: 52 · **Merged PRs**: 3069 · **Open PRs**: 120 · **Closed issues**: 1452 · **Open issues**: 438 · **Commits**: 4986
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 82 | 31 | 14 | 33 | 107 |
-| last60d | 2026-08-08 | 1 | 117 | 35 | 25 | 44 | 152 |
-| 90d | 2026-07-09 | 1 | 158 | 42 | 33 | 52 | 236 |
-| last180d | 2026-04-10 | 3 | 297 | 53 | 62 | 65 | 417 |
-| 360d | 2025-10-12 | 5 | 419 | 64 | 95 | 84 | 594 |
-| last720d | 2024-10-17 | 11 | 689 | 82 | 200 | 151 | 998 |
+| 30d | 2026-09-08 | 0 | 82 | 32 | 14 | 34 | 107 |
+| last60d | 2026-08-09 | 1 | 117 | 36 | 25 | 45 | 152 |
+| 90d | 2026-07-10 | 1 | 156 | 43 | 33 | 53 | 236 |
+| last180d | 2026-04-11 | 3 | 297 | 54 | 61 | 66 | 417 |
+| 360d | 2025-10-13 | 5 | 419 | 65 | 95 | 85 | 594 |
+| last720d | 2024-10-18 | 11 | 685 | 83 | 200 | 152 | 995 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for tinygo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:10:53Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:22:18Z._

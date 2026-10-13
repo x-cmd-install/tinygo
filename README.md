@@ -14,15 +14,15 @@ x install tinygo
 
 ## Code insight
 
-Total: **161,400** lines of code across **1961** files in the top 5 languages.
+Total: **161,397** lines of code across **1961** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 143,874 | 40,481 | 24,697 | 1435 |
+| Go | 143,918 | 40,483 | 24,698 | 1435 |
 | LLVM | 5,987 | 472 | 1,247 | 68 |
 | Json | 3,869 | 0 | 5 | 372 |
 | AssemblyGAS | 3,206 | 1,278 | 614 | 78 |
-| Makefile | 1,362 | 175 | 127 | 8 |
+| Makefile | 1,315 | 173 | 131 | 8 |
 
 ## OpenSSF Scorecard
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 3082 · **Open PRs**: 117 · **Closed issues**: 1462 · **Open issues**: 443 · **Commits**: 5003
+- **Releases**: 53 · **Merged PRs**: 3086 · **Open PRs**: 118 · **Closed issues**: 1462 · **Open issues**: 443 · **Commits**: 5007
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 1 | 84 | 28 | 14 | 45 | 107 |
-| last60d | 2026-08-13 | 2 | 126 | 33 | 25 | 56 | 162 |
-| 90d | 2026-07-14 | 2 | 159 | 40 | 34 | 64 | 224 |
-| last180d | 2026-04-15 | 4 | 298 | 51 | 65 | 76 | 409 |
-| 360d | 2025-10-17 | 6 | 431 | 62 | 100 | 95 | 610 |
-| last720d | 2024-10-22 | 12 | 693 | 80 | 206 | 159 | 992 |
+| 30d | 2026-09-13 | 1 | 86 | 29 | 13 | 45 | 111 |
+| last60d | 2026-08-14 | 2 | 125 | 34 | 25 | 56 | 166 |
+| 90d | 2026-07-15 | 2 | 161 | 40 | 33 | 64 | 228 |
+| last180d | 2026-04-16 | 4 | 298 | 52 | 65 | 76 | 413 |
+| 360d | 2025-10-18 | 6 | 435 | 63 | 100 | 94 | 614 |
+| last720d | 2024-10-23 | 12 | 697 | 81 | 206 | 159 | 992 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for tinygo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:14:28Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:05:37Z._

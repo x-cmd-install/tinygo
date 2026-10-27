@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 166006222,
       "digest": "sha256:e544fe732d7b81f058ac8d2c7303e22031eff734c027295e7a53c3037e4d9e89",
-      "download_count": 97,
+      "download_count": 101,
       "created_at": "2026-10-09T20:55:08Z",
       "updated_at": "2026-10-09T20:55:13Z",
       "browser_download_url": "https://github.com/tinygo-org/tinygo/releases/download/v0.43.0/tinygo0.43.0.darwin-amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 163476090,
       "digest": "sha256:f5e0161f212fb69ad4650a4809e3ca66856e184892e80058f0d47abc64151812",
-      "download_count": 1245,
+      "download_count": 1306,
       "created_at": "2026-10-09T20:55:08Z",
       "updated_at": "2026-10-09T20:55:13Z",
       "browser_download_url": "https://github.com/tinygo-org/tinygo/releases/download/v0.43.0/tinygo0.43.0.darwin-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 186793787,
       "digest": "sha256:ca9fc6d055e3889462dea4450a2e42a92242d88b5c362a7ec39bdb563413d78a",
-      "download_count": 4977,
+      "download_count": 5644,
       "created_at": "2026-10-09T20:55:08Z",
       "updated_at": "2026-10-09T20:55:14Z",
       "browser_download_url": "https://github.com/tinygo-org/tinygo/releases/download/v0.43.0/tinygo0.43.0.linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 181590263,
       "digest": "sha256:a2165b9f46aff9a895a0abed54aedffab1e93317a387c6c2e9dd839425527cbd",
-      "download_count": 508,
+      "download_count": 534,
       "created_at": "2026-10-09T20:55:08Z",
       "updated_at": "2026-10-09T20:55:13Z",
       "browser_download_url": "https://github.com/tinygo-org/tinygo/releases/download/v0.43.0/tinygo0.43.0.linux-arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 178885387,
       "digest": "sha256:6239718f1a6a6abebc8a3e28aa4e639ef57e90c232dccf3a6aa0433492378c1a",
-      "download_count": 474,
+      "download_count": 498,
       "created_at": "2026-10-09T20:55:13Z",
       "updated_at": "2026-10-09T20:55:18Z",
       "browser_download_url": "https://github.com/tinygo-org/tinygo/releases/download/v0.43.0/tinygo0.43.0.windows-amd64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 187174188,
       "digest": "sha256:1c78087d6eed75d7fd33655daf760604a060fd7c54343b6041011a7d489f4992",
-      "download_count": 1112,
+      "download_count": 1195,
       "created_at": "2026-10-09T20:55:13Z",
       "updated_at": "2026-10-09T20:55:19Z",
       "browser_download_url": "https://github.com/tinygo-org/tinygo/releases/download/v0.43.0/tinygo_0.43.0_amd64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 179165408,
       "digest": "sha256:444ab2632550c73354c523e5a5cf7571910f37319a2291468ebfbe16b3a91e6c",
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2026-10-09T20:55:14Z",
       "updated_at": "2026-10-09T20:55:18Z",
       "browser_download_url": "https://github.com/tinygo-org/tinygo/releases/download/v0.43.0/tinygo_0.43.0_arm64.deb"

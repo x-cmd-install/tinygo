@@ -1,3 +1,23 @@
+- repo: parabola
+  subrepo: extra
+  srcname: tinygo
+  binname: tinygo
+  visiblename: tinygo
+  version: 0.43.0
+  origversion: 0.43.0-1
+  status: outdated
+  summary: Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+  licenses:
+    - BSD
+- repo: scoop
+  subrepo: main
+  binname: tinygo
+  visiblename: tinygo
+  version: 0.44.0
+  origversion: null
+  status: newest
+  licenses:
+    - BSD-3-Clause
 - repo: arch
   subrepo: extra
   srcname: tinygo
@@ -5,7 +25,7 @@
   visiblename: tinygo
   version: 0.43.0
   origversion: 0.43.0-1
-  status: newest
+  status: outdated
   summary: Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
   licenses:
     - BSD
@@ -13,8 +33,8 @@
   srcname: tinygo-bin
   binname: tinygo-bin
   visiblename: tinygo-bin
-  version: 0.43.0
-  origversion: 0.43.0-1
+  version: 0.44.0
+  origversion: 0.44.0-1
   status: newest
   summary: TinyGo - Go for small spaces
   maintainers:
@@ -105,6 +125,22 @@
     - BSD and APSL 2.0 and ASL 2.0 and CC0 and ISC and MIT and (NCSA or MIT) and Public Domain
   categories:
     - Unspecified
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: tinygo
+  binnames:
+    - tinygo
+    - tinygo-debuginfo
+    - tinygo-debugsource
+  visiblename: tinygo
+  version: 0.41.1
+  origversion: 0.41.1-1.4
+  status: outdated
+  summary: Go toolchain targeting embedded devices and webassembly
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Languages/Go
 - repo: fedora_43
   subrepo: release
   srcname: tinygo
@@ -197,7 +233,7 @@
   visiblename: tinygo
   version: 0.43.0
   origversion: 0.43.0-1
-  status: newest
+  status: outdated
   summary: Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
   licenses:
     - BSD
@@ -264,53 +300,17 @@
   visiblename: tinygo
   version: 0.43.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Go compiler for small places
   maintainers:
     - muscaln@protonmail.com
-  licenses:
-    - BSD-3-Clause
-- repo: opensuse_tumbleweed
-  subrepo: src-oss
-  srcname: tinygo
-  binnames:
-    - tinygo
-    - tinygo-debuginfo
-    - tinygo-debugsource
-  visiblename: tinygo
-  version: 0.41.1
-  origversion: 0.41.1-1.4
-  status: outdated
-  summary: Go toolchain targeting embedded devices and webassembly
-  licenses:
-    - Apache-2.0
-  categories:
-    - Development/Languages/Go
-- repo: parabola
-  subrepo: extra
-  srcname: tinygo
-  binname: tinygo
-  visiblename: tinygo
-  version: 0.43.0
-  origversion: 0.43.0-1
-  status: newest
-  summary: Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
-  licenses:
-    - BSD
-- repo: scoop
-  subrepo: main
-  binname: tinygo
-  visiblename: tinygo
-  version: 0.43.0
-  origversion: null
-  status: newest
   licenses:
     - BSD-3-Clause
 - repo: termux
   srcname: tinygo
   binname: tinygo
   visiblename: tinygo
-  version: 0.43.0
+  version: 0.44.0
   origversion: null
   status: newest
   summary: Go compiler for microcontrollers, WASM, CLI tools

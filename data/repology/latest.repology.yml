@@ -1,14 +1,12 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: tinygo
+- repo: scoop
+  subrepo: main
   binname: tinygo
   visiblename: tinygo
-  version: 0.29.0
-  origversion: 0.29.0-1
-  status: outdated
-  summary: Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+  version: 0.44.0
+  origversion: null
+  status: newest
   licenses:
-    - BSD
+    - BSD-3-Clause
 - repo: arch
   subrepo: extra
   srcname: tinygo
@@ -34,6 +32,17 @@
     - jakebailey@aur
   licenses:
     - BSD-3-Clause AND Apache-2.0 WITH LLVM-exception
+- repo: parabola
+  subrepo: extra
+  srcname: tinygo
+  binname: tinygo
+  visiblename: tinygo
+  version: 0.43.0
+  origversion: 0.43.0-1
+  status: outdated
+  summary: Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+  licenses:
+    - BSD
 - repo: aur
   srcname: tinygo-git
   binname: tinygo-git
@@ -184,8 +193,19 @@
   srcname: tinygo
   binname: tinygo
   visiblename: tinygo
-  version: 0.29.0
-  origversion: 0.29.0-1
+  version: 0.41.1
+  origversion: 0.41.1-1
+  status: outdated
+  summary: Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+  licenses:
+    - BSD
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: tinygo
+  binname: tinygo
+  visiblename: tinygo
+  version: 0.43.0
+  origversion: 0.43.0-1
   status: outdated
   summary: Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
   licenses:
@@ -286,26 +306,6 @@
     - Apache-2.0
   categories:
     - Development/Languages/Go
-- repo: parabola
-  subrepo: extra
-  srcname: tinygo
-  binname: tinygo
-  visiblename: tinygo
-  version: 0.43.0
-  origversion: 0.43.0-1
-  status: outdated
-  summary: Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
-  licenses:
-    - BSD
-- repo: scoop
-  subrepo: main
-  binname: tinygo
-  visiblename: tinygo
-  version: 0.44.0
-  origversion: null
-  status: newest
-  licenses:
-    - BSD-3-Clause
 - repo: termux
   srcname: tinygo
   binname: tinygo

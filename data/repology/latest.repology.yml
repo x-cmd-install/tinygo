@@ -133,6 +133,20 @@
     - BSD-3-Clause AND Apache-2.0 WITH LLVM-exception AND BSD-2-Clause AND MIT AND Apache-2.0 AND (Apache-2.0 OR MIT) AND BSD-Source-Code AND ISC AND (Apache-2.0 WITH LLVM-exception OR NCSA OR MIT) AND APSL-2.0 AND BSD-2-Clause AND BSD-4-Clause AND BSD-4-Clause-UC AND LicenseRef-Fedora-Public-Domain AND BSD-2-Clause-FreeBSD AND SMLNJ AND Spencer-94
   categories:
     - Unspecified
+- repo: fedora_45
+  subrepo: release
+  srcname: tinygo
+  binnames:
+    - tinygo
+  visiblename: tinygo
+  version: 0.39.0
+  origversion: 0.39.0-1.fc44
+  status: outdated
+  summary: Go compiler for small places
+  licenses:
+    - BSD-3-Clause AND Apache-2.0 WITH LLVM-exception AND BSD-2-Clause AND MIT AND Apache-2.0 AND (Apache-2.0 OR MIT) AND BSD-Source-Code AND ISC AND (Apache-2.0 WITH LLVM-exception OR NCSA OR MIT) AND APSL-2.0 AND BSD-2-Clause AND BSD-4-Clause AND BSD-4-Clause-UC AND LicenseRef-Fedora-Public-Domain AND BSD-2-Clause-FreeBSD AND SMLNJ AND Spencer-94
+  categories:
+    - Unspecified
 - repo: fedora_rawhide
   subrepo: development
   srcname: tinygo

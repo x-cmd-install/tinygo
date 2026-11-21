@@ -276,9 +276,9 @@
 - repo: nix_unstable
   srcname: tinygo
   visiblename: tinygo
-  version: 0.43.0
+  version: 0.44.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Go compiler for small places
   maintainers:
     - muscaln@protonmail.com

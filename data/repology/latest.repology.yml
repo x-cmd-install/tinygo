@@ -1,3 +1,26 @@
+- repo: nix_stable_25_05
+  srcname: tinygo
+  visiblename: tinygo
+  version: 0.37.0
+  origversion: null
+  status: outdated
+  summary: Go compiler for small places
+  maintainers:
+    - madouura@gmail.com
+    - muscaln@protonmail.com
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_25_11
+  srcname: tinygo
+  visiblename: tinygo
+  version: 0.39.0
+  origversion: null
+  status: outdated
+  summary: Go compiler for small places
+  maintainers:
+    - muscaln@protonmail.com
+  licenses:
+    - BSD-3-Clause
 - repo: arch
   subrepo: extra
   srcname: tinygo
@@ -187,8 +210,8 @@
   srcname: tinygo
   binname: tinygo
   visiblename: tinygo
-  version: 0.41.1
-  origversion: 0.41.1-1
+  version: 0.43.0
+  origversion: 0.43.0-1
   status: outdated
   summary: Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
   licenses:
@@ -236,29 +259,6 @@
   summary: Go compiler for small places
   maintainers:
     - madouura@gmail.com
-    - muscaln@protonmail.com
-  licenses:
-    - BSD-3-Clause
-- repo: nix_stable_25_05
-  srcname: tinygo
-  visiblename: tinygo
-  version: 0.37.0
-  origversion: null
-  status: outdated
-  summary: Go compiler for small places
-  maintainers:
-    - madouura@gmail.com
-    - muscaln@protonmail.com
-  licenses:
-    - BSD-3-Clause
-- repo: nix_stable_25_11
-  srcname: tinygo
-  visiblename: tinygo
-  version: 0.39.0
-  origversion: null
-  status: outdated
-  summary: Go compiler for small places
-  maintainers:
     - muscaln@protonmail.com
   licenses:
     - BSD-3-Clause
